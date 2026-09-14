@@ -11,6 +11,8 @@ The tool is designed for runbooks, macros, internal articles, and similar
 knowledge assets. It uses synthetic JSON examples and contains no employer
 content, customer information, usage exports, or internal documentation.
 
+![Terminal preview of support knowledge findings](assets/terminal-preview.svg)
+
 ## Quick Start
 
 ```bash
