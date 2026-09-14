@@ -1,0 +1,28 @@
+{
+  "assets": [
+    {
+      "id": "KB-100",
+      "kind": "runbook",
+      "owner": "platform-support",
+      "last_reviewed": "2026-08-01T09:00:00Z",
+      "uses_last_30_days": 18,
+      "duplicate_of": null
+    },
+    {
+      "id": "MACRO-200",
+      "kind": "macro",
+      "owner": "",
+      "last_reviewed": "2025-01-01T09:00:00Z",
+      "uses_last_30_days": 12,
+      "duplicate_of": null
+    },
+    {
+      "id": "KB-300",
+      "kind": "article",
+      "owner": "knowledge-team",
+      "last_reviewed": "2025-01-01T09:00:00Z",
+      "uses_last_30_days": 0,
+      "duplicate_of": "KB-100"
+    }
+  ]
+}
